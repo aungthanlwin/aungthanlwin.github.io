@@ -1,12 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-03-07T21:00:42-08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Aung Than Lwin</title><subtitle>Personal blog to express my thoughts, imagination and tech related stuffs.</subtitle><entry><title type="html">Awesome Jekyll CMS</title><link href="http://localhost:4000/2020/03/07/awesome-jekyll-cms.html" rel="alternate" type="text/html" title="Awesome Jekyll CMS" /><published>2020-03-07T16:08:00-08:00</published><updated>2020-03-07T16:08:00-08:00</updated><id>http://localhost:4000/2020/03/07/awesome-jekyll-cms</id><content type="html" xml:base="http://localhost:4000/2020/03/07/awesome-jekyll-cms.html">&lt;p&gt;Trying to compose new articles with Jekyll Blogging.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-03-07T21:30:23-08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Aung Than Lwin</title><subtitle>Personal blog to express my thoughts, imagination and tech related stuffs.</subtitle><entry><title type="html">Awesome Jekyll CMS</title><link href="http://localhost:4000/2020/03/07/awesome-jekyll-cms.html" rel="alternate" type="text/html" title="Awesome Jekyll CMS" /><published>2020-03-07T16:08:00-08:00</published><updated>2020-03-07T16:08:00-08:00</updated><id>http://localhost:4000/2020/03/07/awesome-jekyll-cms</id><content type="html" xml:base="http://localhost:4000/2020/03/07/awesome-jekyll-cms.html">&lt;p&gt;Trying to compose new articles with Jekyll Blogging.
 #Test&lt;/p&gt;
 
 &lt;p&gt;Next step to learn is to post a photo within Jekyll post.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;images/2020/03/testjpg&quot; alt=&quot;Coding&quot; /&gt;
-&lt;img src=&quot;images/2020/03/testjpg&quot; alt=&quot;Testing&quot; /&gt;
-&lt;img src=&quot;images/2020/03/testjpg&quot; /&gt;
-Not showing images&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;../../images/2020/03/test.jpg&quot; alt=&quot;Coding&quot; /&gt;&lt;/p&gt;
 
 &lt;table&gt;
   &lt;thead&gt;
@@ -28,7 +25,9 @@ Not showing images&lt;/p&gt;
       &lt;td&gt;7&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
-&lt;/table&gt;</content><author><name></name></author><summary type="html">Trying to compose new articles with Jekyll Blogging. #Test</summary></entry><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/jekyll/update/2020/01/30/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2020-01-30T21:52:38-08:00</published><updated>2020-01-30T21:52:38-08:00</updated><id>http://localhost:4000/jekyll/update/2020/01/30/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2020/01/30/welcome-to-jekyll.html">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;img src=&quot;../../images/2020/03/test.jpg&quot; alt=&quot;Test&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">Trying to compose new articles with Jekyll Blogging. #Test</summary></entry><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/jekyll/update/2020/01/30/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2020-01-30T21:52:38-08:00</published><updated>2020-01-30T21:52:38-08:00</updated><id>http://localhost:4000/jekyll/update/2020/01/30/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2020/01/30/welcome-to-jekyll.html">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
 
 &lt;p&gt;Jekyll requires blog post files to be named according to the following format:&lt;/p&gt;
 

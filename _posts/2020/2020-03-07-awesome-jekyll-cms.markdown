@@ -8,12 +8,12 @@ Trying to compose new articles with Jekyll Blogging.
 
 Next step to learn is to post a photo within Jekyll post.
 
-![Coding](images/2020/03/testjpg)
-![Testing](images/2020/03/testjpg)
-<img src='images/2020/03/testjpg'>
-Not showing images
+![Coding](../../images/2020/03/test.jpg)
+
 
 Header  | Des   |  Test
 --|---|--
   1|  2 |  3
   5|  5 |  7  
+
+![Test](../../images/2020/03/test.jpg)
