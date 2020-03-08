@@ -1,0 +1,31 @@
+I"<p>Trying to compose new articles with Jekyll Blogging.
+#Test</p>
+
+<p>Next step to learn is to post a photo within Jekyll post.</p>
+
+<p><img src="../../images/2020/03/test.jpg" alt="Coding" /></p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Header</th>
+      <th>Des</th>
+      <th>Test</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>2</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>5</td>
+      <td>7</td>
+    </tr>
+  </tbody>
+</table>
+
+<p><img src="../../images/2020/03/test.jpg" alt="Test" /></p>
+:ET

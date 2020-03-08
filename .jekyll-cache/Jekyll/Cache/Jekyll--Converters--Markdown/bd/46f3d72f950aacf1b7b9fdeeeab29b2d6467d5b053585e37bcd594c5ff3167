@@ -1,0 +1,17 @@
+I"�<p>Trying to compose new articles with Jekyll Blogging.
+#Test</p>
+
+<p>Next step to learn is to post a photo within Jekyll post.</p>
+
+<p><img src="{site.baseurl}/images/2020/03/testjpg" alt="Coding" />
+<img src="../../images/2020/03/testjpg" alt="Testing" />
+<img src="../images/2020/03/testjpg" alt="Testing" />
+<img src="/images/2020/03/testjpg" />
+Not showing images</p>
+
+<p>Header  | Des   |  Test
+–|—|–
+  1|  2 |  3
+  5|  5 |  7<br />
+<img src="../../images/2020/03/test.jpg" alt="" /></p>
+:ET
