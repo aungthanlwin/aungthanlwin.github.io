@@ -10,7 +10,7 @@ Next step to learn is to post a photo within Jekyll post.
 
 ![Coding](/images/2020/03/testjpg)
 ![Testing](images/2020/03/testjpg)
-<img src='images/2020/03/testjpg'>
+<img src='images/2020/03/test.jpg'>
 Not showing images
 
 Header  | Des   |  Test
