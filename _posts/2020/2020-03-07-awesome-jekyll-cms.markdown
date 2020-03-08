@@ -16,4 +16,4 @@ Header  | Des   |  Test
   1|  2 |  3
   5|  5 |  7  
 
-![Test](../../images/2020/03/test.jpg)
+![Test]({{site.baseurl}}/images/2020/03/test.jpg)
