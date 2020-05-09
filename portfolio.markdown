@@ -9,7 +9,7 @@ This is portfolio page in progress .....
 
 [Qcera (2019 - Current)](http://www.qcera.com) **<span style="color: green;">Web Application Developer</span>**
 
-[//]: # ![jobline_logo]({{site.baseurl}}/images/portfolio/qcera_logoflat.png)
+[//]: # (![jobline_logo]({{site.baseurl}}/images/portfolio/qcera_logoflat.png))
 
 
 * * *
