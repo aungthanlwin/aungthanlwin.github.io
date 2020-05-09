@@ -9,7 +9,7 @@ This is portfolio page in progress .....
 
 [Qcera (2019 - Current)](http://www.qcera.com) **<span style="color: green;">Web Application Developer</span>**
 
-![jobline_logo]({{site.baseurl}}/images/portfolio/qcera_logoflat.png)
+[//] # ![jobline_logo]({{site.baseurl}}/images/portfolio/qcera_logoflat.png)
 
 
 * * *
@@ -57,4 +57,8 @@ I joined this Engineering Company's IT Department as a  junior software develop
 
 <img class="" style=" display: block;  margin-left: auto;  margin-right: auto; border-radius: 20%;" src="{{site.baseurl}}/images/portfolio/seinpann.jpg" alt="SeinPann" width="318" height="214" />
 
-I spent four years in the university and I didn't really know well that it was worth spending time in a university. During the year I studied Computer Science in UCSY, I emphasized more on my particular interests. As a result, I got personal interest in programming and made friends with like-minded classmates who later helped a lot in my career ahead and may be I helped them too. I was able to make interest groups about programming and of course about other interesting stuffs as well. And those friendship I made has been going on till today. Honestly, I expected university education to be much better than I really achieved and I wanted a more free and interactive teaching system in Myanmar (Burma). As a result, I took hands on training from external training center like 'ACE', a popular IT training center at the time and I was more than ready to work as soon as I graduated from university. Notes : All logos and trademarks are the property of the respective trademark owners.
+I spent four years in the university and I didn't really know well that it was worth spending time in a university. During the year I studied Computer Science in UCSY, I emphasized more on my particular interests. As a result, I got personal interest in programming and made friends with like-minded classmates who later helped a lot in my career ahead and may be I helped them too. I was able to make interest groups about programming and of course about other interesting stuffs as well. And those friendship I made has been going on till today. Honestly, I expected university education to be much better than I really achieved and I wanted a more free and interactive teaching system in Myanmar (Burma). As a result, I took hands on training from external training center like 'ACE', a popular IT training center at the time and I was more than ready to work as soon as I graduated from university. Notes : 
+
+***
+
+All logos and trademarks are the property of the respective trademark owners.
