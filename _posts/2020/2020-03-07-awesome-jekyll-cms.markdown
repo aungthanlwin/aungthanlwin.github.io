@@ -2,6 +2,7 @@
 layout: "post"
 title: "Awesome Jekyll CMS"
 date: "2020-03-07 16:08"
+img: "/images/2020/03/test.jpg"
 ---
 Trying to compose new articles with Jekyll Blogging.
 #Test

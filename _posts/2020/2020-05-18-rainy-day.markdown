@@ -2,6 +2,7 @@
 layout: "post"
 title: "Rainy Day"
 date: "2020-05-18 09:13"
+img: "/images/2020/05/cyclone_amphan.png"
 ---
 
 It was raining this morning for about 1 hour. Actually, there was some drizzle since last night. It makes the day less hotter than the previous day. I enjoyed seeing raining and took some videos to post on Facebook. Coincidentally, it was raining in Myanmar because the Cyclone Amphan which has been active for hours in bay of Bengal.

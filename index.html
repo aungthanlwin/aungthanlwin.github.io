@@ -1,0 +1,30 @@
+---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+
+layout: default
+---
+{% for post in paginator.posts %}
+
+<article class="post">
+<div class="row">
+  <div class="post-content span10" >
+
+    <h2 class="post-title"><a href="{{post.url | prepend: site.baseurl}}">{{post.title}}</a></h2>
+    {% if post.img %}
+    <a href="{{post.url | prepend: site.baseurl}}" >
+      <img style="margin: 0 0 10px; border-radius: 10px 10px 0 0; " align="center" src=" {{ site.baseurl | append : post.img}}">
+    </a>
+    {% else %}
+    {% endif %}
+    <p>{{ post.content | strip_html | truncatewords: 40 }}</p>
+
+    <span class="post-date">{{post.date | date: '%Y, %b %d'}}&nbsp;&nbsp;&nbsp;—&nbsp;</span>
+    <span class="post-words">{% capture words %}{{ post.content | number_of_words }}{% endcapture %}{% unless words contains "-" %}{{ words | plus: 250 | divided_by: 250 | append: " minute read" }}{% endunless %}</span>
+  </div>
+
+  </div>
+</article>
+{% endfor %}
+
+{% include pagination.html %}

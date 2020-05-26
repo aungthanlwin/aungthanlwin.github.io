@@ -4,17 +4,17 @@ title: Portfolio
 permalink: /portfolio/
 ---
 
-This is portfolio page in progress .....
+This portfolio page is in progress .....
 
 
-[Qcera (2019 - Current)](http://www.qcera.com) **<span style="color: green;">Web Application Developer</span>**
+[**Qcera (2019 - Current)**](http://www.qcera.com) **<span style="color: green;">Web Application Developer</span>**
 
 [//]: # (![logo]({{site.baseurl}}/images/portfolio/qcera_logoflat.png))
-
+Develop and maintain existing Leave Management Systems, make improvement and add new modules to meet the various customers needs. Discuss, design and document the new implementations with regular meetings with managers, developers and system operation supports. Work on both front-end and back-end implementations as well as creating new scripts and tables in Database using latest Microsoft Technologies.  
 
 * * *
 
-[BlueStar Infostack Solutions Pte Ltd Singapore (2016 - 2017)](https://www.infogain.com/about-us/locations/) **<span style="color: green;">Software Engineer</span>**
+[**BlueStar Infostack Solutions Pte Ltd Singapore (2016 - 2017)**](https://www.infogain.com/about-us/locations/) **<span style="color: green;">Software Engineer</span>**
 
 [//]: # (![jobline_logo]({{site.baseurl}}/images/portfolio/infogain-logo.png))
 
@@ -35,11 +35,11 @@ This is my second job in Singapore. I worked in this company for exactly 3 years
 
 * * *
 
-[Techace Innovation Pte Ltd (2010 - 2013)](http://www.techace.com/) **<span style="color: green;">Software Engineer </span>**
+[**Techace Innovation Pte Ltd (2010 - 2013)**](http://www.techace.com/) **<span style="color: green;">Software Engineer </span>**
 
 [//]: # (![]({{site.baseurl}}/images/portfolio/techace.png))
 
-My first job working with an English Speaking Company owner, a Singaporean as well as a project manager for the projects. I had a great experience and also cheerful working colleagues from my country and from other countries. Company offered me to work in Singapore and since then I have been spending most of my time out of my country.At first, it was not so easy for me to communicate in English as it had never been a medium of my communication but my personal interest in English language helped me to some extent.
+My first job working with an English Speaking Company owner, a Singaporean as well as a project manager for the projects. I had a great experience and also cheerful working colleagues from my country and from other countries. Company offered me to work in Singapore and since then I have been spending most of my time out of my country.At first, it was not so easy for me to communicate in English as it had never been a medium of my communication but my personal interest in English language helped me to some extent. I worked mainly with Microsoft Technologies focusing on application development and deployment across different domains like Accounting, HR and Document Management Systems.
 
 * * *
 
@@ -57,8 +57,8 @@ I joined this Engineering Company's IT Department as a  junior software develop
 
 <img class="" style=" display: block;  margin-left: auto;  margin-right: auto; border-radius: 20%;" src="{{site.baseurl}}/images/portfolio/seinpann.jpg" alt="SeinPann" width="318" height="214" />
 
-I spent four years in the university and I didn't really know well that it was worth spending time in a university. During the year I studied Computer Science in UCSY, I emphasized more on my particular interests. As a result, I got personal interest in programming and made friends with like-minded classmates who later helped a lot in my career ahead and may be I helped them too. I was able to make interest groups about programming and of course about other interesting stuffs as well. And those friendship I made has been going on till today. Honestly, I expected university education to be much better than I really achieved and I wanted a more free and interactive teaching system in Myanmar (Burma). As a result, I took hands on training from external training center like 'ACE', a popular IT training center at the time and I was more than ready to work as soon as I graduated from university. Notes : 
+I spent four years in the university and I didn't really know well that it was worth spending time in a university. During the year I studied Computer Science in UCSY, I emphasized more on my particular interests. As a result, I got personal interest in programming and made friends with like-minded classmates who later helped a lot in my career ahead and may be I helped them too. I was able to make interest groups about programming and of course about other interesting stuffs as well. And those friendship I made has been going on till today. Honestly, I expected university education to be much better than I really achieved and I wanted a more free and interactive teaching system in Myanmar (Burma). As a result, I took hands on training from external training center like 'ACE', a popular IT training center at the time and I was more than ready to work as soon as I graduated from the university.
 
 ***
-
+Notes :
 All logos and trademarks are the property of the respective trademark owners.
