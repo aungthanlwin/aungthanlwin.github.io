@@ -1,85 +1,7 @@
-<!DOCTYPE html>
-<html class="no-js">
-  <head>
-
-    <meta charset="utf-8">
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-<title>Portfolio</title>
-<meta name="description" content="">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
-
-<!-- CSS -->
-
-<link rel="stylesheet" href="/css/bootstrap.min.css" />
-<link rel="stylesheet" href="/css/font-awesome.min.css" />
-<link rel="stylesheet" href="/css/main.css" />
-<!-- <link rel="stylesheet" href="/css/style.css" /> -->
-
-<!-- Js -->
-<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-<script src="/js/bootstrap.min.js"></script>
-
-<script src="/js/main.js"></script>
-
-<!--
-/*
- * Comments
- *
- *
- */
--->
-
-
-  </head>
-  <body>
-
-
-    <!-- Header Start -->
-<header>
-<div class="container">
-  <div class="row">
-    <div class="col-md-12">
-      <!-- header Nav Start -->
-      <nav class="navbar navbar-default">
-        <div class="container-fluid">
-          <!-- Brand and toggle get grouped for better mobile display -->
-          <div class="navbar-header">
-            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
-            <span class="sr-only">Toggle navigation</span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-            </button>
-            <a class="navbar-brand" href="/">
-              <img src="/images/logo.gif" width="30%" height="30px" alt="Logo">
-            </a>
-            <h4>Aung Than Lwin</h4>
-          </div>
-            <!-- Collect the nav links, forms, and other content for toggling -->
-            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-              <ul class="nav navbar-nav navbar-right">
-                <li><a href="/">Home</a></li>
-                <li><a href="https://www.gitshowcase.com/aungthanlwin">Showcase</a></li>
-                <li><a href="/blog">Blog</a></li>
-                <li><a href="/about">About</a></li>
-                <li><a href="/portfolio">Portfolio</a></li>
-              </ul>
-            </div><!-- /.navbar-collapse -->
-          </div><!-- /.container-fluid -->
-        </nav>
-      </div>
-    </div>
-  </div>
-</header><!-- header close -->
-
-
-<div class="container">
-
-      <p>This portfolio page is in progress …..
+I"e<p>This portfolio page is in progress …..
 <img src="images/portfolio/sittingandworking.jpg" alt="" /></p>
 
-<p><img src="/images/portfolio/sittingandworking.jpg" alt="Working at home" /></p>
+<p><img src="site.baseurl}}/images/portfolio/sittingandworking.jpg" alt="Sitting and Working" /></p>
 
 <p><a href="http://www.qcera.com"><strong>Qcera (2019 - Current)</strong></a> <strong><span style="color: green;">Web Application Developer</span></strong></p>
 
@@ -89,19 +11,15 @@
 
 <p><a href="https://www.infogain.com/about-us/locations/"><strong>BlueStar Infostack Solutions Pte Ltd Singapore (2016 - 2017)</strong></a> <strong><span style="color: green;">Software Engineer</span></strong></p>
 
-<p>Maintained existing web sites (Library Search Engine) and internal applications written in C# and ASP.net MVC at client site (National Library Board Singapore). Enhanced and add more features to existing applications.  Worked in parallel on Android TV Application development with Java and Android Studio. Praised for initiative and problem-solving abilities of a prototype of Singapore’s old archive photo map using Google map and Leaflet library.</p>
-
 <hr />
 
 <p><a href="https://www.jobline.com.sg/"><strong>Jobline Resources</strong> <strong>Pte</strong> <strong>Ltd (2015 - 2016)</strong></a> <strong><span style="color: green;">Software Engineer</span></strong></p>
-
-<p>Maintained existing web sites (Library Search Engine) and internal applications written in C# and ASP.net MVC at client site (National Library Board Singapore). Enhanced and add more features to existing applications.  Worked in parallel on Android TV Application development with Java and Android Studio. Praised for initiative and problem-solving abilities of a prototype of Singapore’s old archive photo map using Google map and Leaflet library.</p>
 
 <hr />
 
 <p><a href="http://www.mnsys.com.sg/"><strong>MN</strong> <strong>Computer</strong> <strong>Systems</strong> <strong>Pte</strong> <strong>Ltd (2013 - 2015)</strong></a> <strong><span style="color: green;">Software Engineer </span></strong></p>
 
-<p>This is my second job in Singapore. I worked in this company for exactly 3 years specializing in POS Systems with different POS clients. Maintained existing Sinagpore most used POS Applications from German Based Company Wincor-Nixdor (now Diebold-Nixdorf). Used VB.Net, C#, ASP.Net Web Services as development tools. Worked on credit-card terminal communication through COM-port by using API and C# native services including various invoice slip printing, different barcode scanning technologies and integrations.</p>
+<p>This is my second job in Singapore. I worked in this company for exactly 3 years specializing in POS Systems with different POS clients.</p>
 
 <hr />
 
@@ -128,37 +46,4 @@
 <hr />
 <p>Notes :
 All logos and trademarks are the property of the respective trademark owners.</p>
-
-
-  
-</div><!-- /.container-fluid -->
-
-
-
-
-
-
-    <!-- footer Start -->
-<footer>
-  <div class="container">
-    <hr>
-    <div class="row">
-      <div class="col-md-12">
-        <div class="footer-manu">
-          <ul>
-            <li><a href="#">About Us</a></li>
-            <li><a href="/contact">Contact us</a></li>
-            <li><a href="#">How it works</a></li>
-            <li><a href="/blog">Blog</a></li>
-            <li><a href="#">Terms</a></li>
-          </ul>
-        </div>
-        <p>Copyright &copy; Design &amp; Developed by <a href="https://www.aungthanlwin.com">Aung Than Lwin</a>. All rights reserved.</p>
-      </div>
-    </div>
-  </div>
-</footer>
-
-
-    </body>
-</html>
+:ET

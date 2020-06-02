@@ -5,7 +5,9 @@ permalink: /portfolio/
 ---
 
 This portfolio page is in progress .....
+![](images/portfolio/sittingandworking.jpg)
 
+![Working at home]({{site.baseurl}}/images/portfolio/sittingandworking.jpg)
 
 [**Qcera (2019 - Current)**](http://www.qcera.com) **<span style="color: green;">Web Application Developer</span>**
 
@@ -17,13 +19,14 @@ Develop and maintain existing Leave Management Systems, make improvement and add
 [**BlueStar Infostack Solutions Pte Ltd Singapore (2016 - 2017)**](https://www.infogain.com/about-us/locations/) **<span style="color: green;">Software Engineer</span>**
 
 [//]: # (![jobline_logo]({{site.baseurl}}/images/portfolio/infogain-logo.png))
-
+Maintained existing web sites (Library Search Engine) and internal applications written in C# and ASP.net MVC at client site (National Library Board Singapore). Enhanced and add more features to existing applications.  Worked in parallel on Android TV Application development with Java and Android Studio. Praised for initiative and problem-solving abilities of a prototype of Singapore's old archive photo map using Google map and Leaflet library.
 
 * * *
 
 [**Jobline Resources** **Pte** **Ltd (2015 - 2016)**](https://www.jobline.com.sg/) **<span style="color: green;">Software Engineer</span>**
 
 [//]: # (![jobline_logo]({{site.baseurl}}/images/portfolio/jobline_logo.png))
+Maintained existing web sites (Library Search Engine) and internal applications written in C# and ASP.net MVC at client site (National Library Board Singapore). Enhanced and add more features to existing applications.  Worked in parallel on Android TV Application development with Java and Android Studio. Praised for initiative and problem-solving abilities of a prototype of Singapore's old archive photo map using Google map and Leaflet library.
 
 * * *
 
@@ -31,7 +34,7 @@ Develop and maintain existing Leave Management Systems, make improvement and add
 
 [//]: # (![MN Computer Systems]({{site.baseurl}}/images/portfolio/mnsys.jpg))
 
-This is my second job in Singapore. I worked in this company for exactly 3 years specializing in POS Systems with different POS clients.
+This is my second job in Singapore. I worked in this company for exactly 3 years specializing in POS Systems with different POS clients. Maintained existing Sinagpore most used POS Applications from German Based Company Wincor-Nixdor (now Diebold-Nixdorf). Used VB.Net, C#, ASP.Net Web Services as development tools. Worked on credit-card terminal communication through COM-port by using API and C# native services including various invoice slip printing, different barcode scanning technologies and integrations.
 
 * * *
 

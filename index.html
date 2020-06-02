@@ -4,6 +4,8 @@
 
 layout: default
 ---
+<div class="container">
+
 {% for post in paginator.posts %}
 
 <article class="post">
@@ -13,11 +15,12 @@ layout: default
     <h2 class="post-title"><a href="{{post.url | prepend: site.baseurl}}">{{post.title}}</a></h2>
     {% if post.img %}
     <a href="{{post.url | prepend: site.baseurl}}" >
-      <img style="margin: 0 0 10px; border-radius: 10px 10px 0 0; " align="center" src=" {{ site.baseurl | append : post.img}}">
+      <img style="margin: 0 0 10px; border-radius: 10px 10px 0 0; width:100%; "  align="center" src=" {{ site.baseurl | append : post.img}}">
     </a>
     {% else %}
     {% endif %}
-    <p>{{ post.content | strip_html | truncatewords: 40 }}</p>
+    <p  style="width:100%;" >{{ post.content | strip_html | truncatewords: 40 }}</p>
+
 
     <span class="post-date">{{post.date | date: '%Y, %b %d'}}&nbsp;&nbsp;&nbsp;—&nbsp;</span>
     <span class="post-words">{% capture words %}{{ post.content | number_of_words }}{% endcapture %}{% unless words contains "-" %}{{ words | plus: 250 | divided_by: 250 | append: " minute read" }}{% endunless %}</span>
@@ -28,3 +31,5 @@ layout: default
 {% endfor %}
 
 {% include pagination.html %}
+
+</div>
