@@ -5,7 +5,7 @@ permalink: /portfolio/
 ---
 
 This portfolio page is in progress .....
-![](images/portfolio/sittingandworking.jpg)
+* * *
 
 ![Working at home]({{site.baseurl}}/images/portfolio/sittingandworking.jpg)
 
