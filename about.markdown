@@ -4,15 +4,6 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+This portfolio website is developed by Aung Than Lwin. I'm a software engineer. I work across different technologies on Microsoft Platform including web development, windows, and mobile development. Currently my main area is in ASP.Net web development with both C# and VB.Net using Microsoft SQL Server as a backend database system. I'm a full stack developer as I also work on HTML, CSS, JavaScript, JQuery and other front-end frameworks.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+This website is developed by using Github Pages technologies from Microsoft, and Jekyll Static Page.
