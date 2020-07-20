@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Could not find public_suffix-4.0.3 in any of the sources - Jekyll"
+title: "How to fix 'Could not find public_suffix-4.0.3 in any of the sources - Jekyll' "
 date: "2020-06-24 13:34"
 img: "/images/2020/06/public_suffix not found.png"
 ---
