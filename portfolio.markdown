@@ -19,7 +19,7 @@ Develop and maintain existing Leave Management Systems, make improvement and add
 [**BlueStar Infostack Solutions Pte Ltd - Singapore (2016 - 2017)**](https://www.infogain.com/about-us/locations/) **<span style="color: green;">Software Engineer</span>**
 
 [//]: # (![jobline_logo]({{site.baseurl}}/images/portfolio/infogain-logo.png))
-Maintained existing web sites (Library Search Engine) and internal applications written in C# and ASP.net MVC at client site (National Library Board Singapore). Enhanced and add more features to existing applications.  Worked in parallel on Android TV Application development with Java and Android Studio. Praised for initiative and problem-solving abilities of a prototype of Singapore's old archive photo map using Google map and Leaflet library.
+Maintained existing web sites (Library Search Engine) and internal applications written in C# and ASP.net MVC at client site (National Library Board Singapore). Enhanced and add more features to existing applications.  Worked in parallel on Android TV Application development with Java and Android Studio. Prototype Singapore's old archive photo map using Google map and Leaflet library.
 
 * * *
 
