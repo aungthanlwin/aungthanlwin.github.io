@@ -3,6 +3,7 @@ layout: "post"
 title: "One Friday in May"
 date: "2020-05-08 15:23"
 img: "/images/2020/05/ScreenshotMay8.png"
+thumbnail: "/images/2020/05/ScreenshotMay8.png"
 author: "Aung Than Lwin"
 ---
 
