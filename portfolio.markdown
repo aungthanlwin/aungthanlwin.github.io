@@ -9,7 +9,7 @@ This portfolio page is in progress .....
 
 ![Working at home]({{site.baseurl}}/images/portfolio/sittingandworking.jpg)
 
-[**Qcera - USA (2019 - Current)**](http://www.qcera.com) **<span style="color: green;">Web Application Developer</span>**
+[**Qcera - USA (2019 - 2020)**](http://www.qcera.com) **<span style="color: green;">Web Application Developer</span>**
 
 [//]: # (![logo]({{site.baseurl}}/images/portfolio/qcera_logoflat.png))
 Develop and maintain existing Leave Management Systems, make improvement and add new modules to meet the various customers needs. Discuss, design and document the new implementations with regular meetings with managers, developers and system operation supports. Work on both front-end and back-end implementations as well as creating new scripts and tables in Database using latest Microsoft Technologies.  
